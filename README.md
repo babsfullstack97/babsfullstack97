@@ -2,11 +2,8 @@
 
 <h3 align="center">About Me!</h3>
 <p align="center">
-I am a fullstack JavaScript developer with both back-end and front-end skills.
-I have always looked for opportunities and challenges or left my mark. I have never stopped committing my passion to helping others and solving problems.
-As a fullstack JavaScript developer, I like to pay obsessive attention to detail and various development mechanisms.
-My unequivocal love for creation and my work ethic has focused me on the mission of making my contribution to the changes in this world.
-That’s why I’m excited to make a positive impact in a high growth company.
+I am a fullstack JavaScript developer with both back-end and front-end skills. I have always looked for opportunities and challenges to make my mark. I have never stopped engaging my passion to help others and solve their problems. As a fullstack JavaScript developer, I enjoy paying obsessive attention to detail and various development mechanisms. My unequivocal love for creation and my work ethic have directed me towards the mission of making a contribution to make the world a better place. That's why I'm excited to make a positive impact in a fast-growing company.
+
 </p>
 
 -  🤝 I’m looking to collaborate on more open source projects
@@ -27,5 +24,7 @@ class Skills extends FullstackDeveloper {
   languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Node', 'GraphQL', 'Express'];
+  extras = ['AWS', 'Docker', 'Linux'];
+  tools = ['VS Code', 'Vim', 'GitHub'];
 }
 ```
