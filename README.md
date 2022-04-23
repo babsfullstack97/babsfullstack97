@@ -13,3 +13,19 @@ That’s why I’m excited to make a positive impact in a high growth company.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [babsfullstack@gmail.com](mailto:babsfullstack@gmail.com).
 
+```js
+import FullstackDeveloper from 'babsfullstack97';
+
+class Bio extends FullstackDeveloper {
+  name     = 'Babacar NIANG';
+  title    = 'Fullstack Javascript Developer';
+  company  = 'Horus Lab';
+  location = 'Dakar, SN';
+}
+
+class Skills extends FullstackDeveloper {
+  languages  = ['JavaScript', 'PHP', 'Python'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Node', 'GraphQL', 'Express'];
+}
+```
